@@ -1,2 +1,2 @@
 # HomFFTPy
-Implementation the FFT-based homogenization methods using Python
+FFT-based homogenization methods implementation using Python
